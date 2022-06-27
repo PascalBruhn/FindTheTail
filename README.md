@@ -1,4 +1,4 @@
-# Find-The-Tail
+# FindTheTail
 **FindTheTail - Extreme Value Theory - Matlab**
 
 FindTheTail automatically determines the optimal threshold for the tail of an unknown parent distribution. A distribution´s tail is modelled via a Generalized Pareto Distribution (GPD) to assess extreme negative tail risks. Risks are quantified by the Value at Risk and Expected Shortfall (cVaR) for different confidence levels.
