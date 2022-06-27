@@ -8,7 +8,7 @@ The FindTheTail function and its documentation can be found in the [Live Script]
 [![View FindTheTail - Extreme Value Theory on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/114190-findthetail-extreme-value-theory)
 
 Cite as:
-Pascal Bruhn (2022). FindTheTail - Extreme Value Theory (https://github.com/PascalBruhn/FindTheTail/releases/tag/v1.0.0), GitHub.
+Pascal Bruhn (2022). FindTheTail - Extreme Value Theory (https://github.com/PascalBruhn/FindTheTail/releases/tag/v1.1.0), GitHub.
 
 
 **References:**
